@@ -5,7 +5,7 @@
 ## Setup
 
 - Download with `pip3 install defKey`
-- Import with `import defKey`
+- Import with `from defKey import defKey`
 
 ## Usage
 
