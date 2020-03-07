@@ -1,0 +1,6 @@
+__pycache__/defKey.cpython-38.pyc
+__pycache__/getch.cpython-38.pyc
+build/
+defKey.egg-info/
+dist/
+defKey/__pycache__/
